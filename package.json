@@ -1,0 +1,21 @@
+{
+  "name": "niceclean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build-css": "tailwindcss -i ./src/tailwind.css -o ./assets/css/tailwind.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "prettier-plugin-tailwindcss": "^0.1.9",
+    "tailwindcss": "^3.0.15"
+  },
+  "dependencies": {
+    "flowbite": "^1.5.3",
+    "flowbite-datepicker": "^1.2.2"
+  }
+}
