@@ -1,4 +1,4 @@
 "# NiceClean" 
 PHP and MySQL
 
-DEMO https://www.isrmuti.com/niceclean/
+DEMO https://niceclean-project.000webhostapp.com/
